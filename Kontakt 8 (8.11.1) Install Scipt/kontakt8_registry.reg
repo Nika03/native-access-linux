@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Native Instruments\Kontakt 8]
+"InstallDir"="C:\\Program Files\\Native Instruments\\Kontakt 8\\"
+"InstallVST364Dir"="C:\\Program Files\\Common Files\\VST3"
+"InstallAAX64Dir"="C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins"
+"ContentDir"="C:\\Program Files\\Common Files\\Native Instruments\\Kontakt 8"
+"ContentVersion"="4.0"
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Native Instruments Kontakt 8]
+"DisplayVersion"="8.11.1.0"
+"EstimatedSize"=dword:0007ef3e
+"DisplayName"="Native Instruments Kontakt 8"
+"Publisher"="Native Instruments"
+"InstallLocation"="C:\\Program Files\\Native Instruments\\Kontakt 8\\"
+"HelpLink"="http://www.native-instruments.de/"
+"URLUpdateInfo"="http://www.native-instruments.de/"
+"Comments"="all rights reserved"
+"Contact"="Native Instruments"
